@@ -1,0 +1,1 @@
+# Vypis-lokacie-podla-IP
